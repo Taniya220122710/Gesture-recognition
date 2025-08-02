@@ -73,4 +73,9 @@ OpenCV (install with pip install opencv-python)
  0 Fingers → START
  2 Fingers → OK
  5 Fingers → STOP
+<img width="826" height="722" alt="Screenshot 2025-08-02 194102" src="https://github.com/user-attachments/assets/e9caf9aa-585a-4ea1-b53b-4d9ef730beef" />
+<img width="813" height="628" alt="Screenshot 2025-08-02 194134" src="https://github.com/user-attachments/assets/a5b6ccdc-5bd7-476c-919f-902b901e1898" />
+<img width="806" height="619" alt="Screenshot 2025-08-02 194148" src="https://github.com/user-attachments/assets/93a0c6c5-d07b-46f3-b48f-8dcbbb82b6df" />
+
+
 
